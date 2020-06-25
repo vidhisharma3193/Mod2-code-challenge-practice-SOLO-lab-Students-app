@@ -100,7 +100,7 @@ On the student's show page,
 
 - Add a validation to ensure that the student's age is greater than 18.
 - Add handling for this error to the Student create action.
-- The validation error should be shown on the Student creation form when a user attempts to save an appearance with an invalid age.
+- The validation error should be shown on the Student creation form when a user attempts to save a student with an invalid age.
 
 ### 5. Advanced: Student Edit Form
 
