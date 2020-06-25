@@ -1,0 +1,10 @@
+<h3> <%= @student.name %> 's Show Page </h3>
+
+<label> Name </label>
+<h3> <%= @student.name %> </h3>
+
+<label> Age </label>
+<h3> <%= @student.age %> </h3>
+
+<label> Instructor's Name </label>
+<h3> <%= link_to @student.instructor.name, "/instructors/#{@student.instructor.id}" %> </h3>
