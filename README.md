@@ -27,7 +27,7 @@ Instructor has many students and student belongs to an instructor.
 
 ## What You Already Have
 
-The starter code includes migrations, models, and seed data for Guests and Episodes. There are also routes, controller actions, and views to support listing the students and instructors.
+The starter code includes migrations, models, and seed data for Students and Instructors. There are also routes, controller actions, and views to support listing the students and instructors.
 
 After running the setup instructions above, visiting `'/students'` will display all of the students, and visiting `'/instructors'` will display all of the instructors.
 
