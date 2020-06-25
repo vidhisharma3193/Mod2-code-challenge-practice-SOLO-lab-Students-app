@@ -88,7 +88,7 @@ On the instructor show page, a user should see:
 - A list of the students who belongs to this instructor
 - Each student's name should link to the Student Show page
 
-### 3. Student Show Page Episode links
+### 3. Student Show Page Instructor links
 
 On the student's show page,
 
